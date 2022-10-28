@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="29px">, I'm Rishabh Goswami<br/><small>A passionate full stack developer from India</small></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rg_rishu&label=Profile%20views&color=0e75b6&style=flat" alt="rg_rishu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgrishu&label=Profile%20views&color=0e75b6&style=flat" alt="rgrishu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rg_rishu" alt="rg_rishu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgrishu" alt="rgrishu" /></a> </p>
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <h1 dir="auto">
@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **C# , .Net , .Net Core ,MS-SQL, Jquery, Javascript**
 
-- 📫 How to reach me **rg_rishu@gmail.com**
+- 📫 How to reach me **rishabhgoswami143@gmail.com**
 
 <strong>Connect with me:</strong>
 
@@ -51,10 +51,10 @@
 
 <h3 dir="auto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>Languages</h3>
 <p dir="auto">
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/d6460737e17000b571320441dfda10ea5f985df6/.github/Images/csharp.svg" alt="c-sharp"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/typescript.svg" alt="typescript"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/javascript.svg" alt="javascript"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/d6460737e17000b571320441dfda10ea5f985df6/.github/Images/SQL.svg" alt="Sql"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d6460737e17000b571320441dfda10ea5f985df6/.github/Images/csharp.svg" alt="c-sharp"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/typescript.svg" alt="typescript"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/javascript.svg" alt="javascript"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d6460737e17000b571320441dfda10ea5f985df6/.github/Images/SQL.svg" alt="Sql"/>
 </p>
 <!--<img src="" alt="python" />-->
 
@@ -67,37 +67,37 @@
 </h3>
 
 <p dir="auto">
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/JQuery.svg" alt="jquery"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/React.svg" alt="react" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/REDUX.svg" alt="redux" data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/reactrouter.svg" alt="react-router" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/a43733d5a43707400b3a34bbdebc1266a35b52cb/.github/Images/MUI.svg" alt="material-ui" data-canonical-src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&amp;logo=mui&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/PWA.svg" alt="pwa" data-canonical-src="https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/GQL.svg" alt="graphql" data-canonical-src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Three.svg" alt="three.js" data-canonical-src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/HTML.svg" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/css.svg" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Sass.svg" alt="sass" data-canonical-src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/Bootstrap.svg" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/JQuery.svg" alt="jquery"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/React.svg" alt="react" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/REDUX.svg" alt="redux" data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/reactrouter.svg" alt="react-router" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/a43733d5a43707400b3a34bbdebc1266a35b52cb/.github/Images/MUI.svg" alt="material-ui" data-canonical-src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&amp;logo=mui&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/PWA.svg" alt="pwa" data-canonical-src="https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/GQL.svg" alt="graphql" data-canonical-src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Three.svg" alt="three.js" data-canonical-src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/HTML.svg" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/css.svg" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Sass.svg" alt="sass" data-canonical-src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/Bootstrap.svg" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
 </p>
 
 
 <h2 dir="auto"><a id="user-content-️-workspace-setup" class="anchor" aria-hidden="true" href="#️-workspace-setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> IDEs</h2>
 <p>
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/d6460737e17000b571320441dfda10ea5f985df6/.github/Images/VS.svg" alt="visual-studio">
-<img src="https://raw.githubusercontent.com/rg_rishu/rg_rishu/17221fbbb448f5b343513e50c784de23f288d7b6/.github/Images/VSC.svg" alt="vs-code">
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d6460737e17000b571320441dfda10ea5f985df6/.github/Images/VS.svg" alt="visual-studio">
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/17221fbbb448f5b343513e50c784de23f288d7b6/.github/Images/VSC.svg" alt="vs-code">
 </p>
 
 <h2>&nbsp;</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rg_rishu&show_icons=true&locale=en&layout=compact" alt="rg_rishu" style="width:44%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rg_rishu&show_icons=true&locale=en" alt="rg_rishu" style="width:52%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rgrishu&show_icons=true&locale=en&layout=compact" alt="rgrishu" style="width:44%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rgrishu&show_icons=true&locale=en" alt="rgrishu" style="width:52%"/>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rg_rishu&" alt="rg_rishu" style="width:100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgrishu&" alt="rgrishu" style="width:100%"/></p>
 
 
 
 <!---
-rg_rishu/rg_rishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rgrishu/rgrishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
