@@ -78,7 +78,7 @@
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/HTML.svg" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/css.svg" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Sass.svg" alt="sass" data-canonical-src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/Bootstrap.svg" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
+<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/c6ce28589c35b3abdf73a93bf308564a92dc68fd/.github/Images/Bootstrap.svg" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
 </p>
 
 
