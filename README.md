@@ -69,7 +69,7 @@
 <p dir="auto">
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/JQuery.svg" alt="jquery"/>
 
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Three.svg" alt="three.js" data-canonical-src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" style="max-width: 100%;"/>
+
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/HTML.svg" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/css.svg" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"/>
 
