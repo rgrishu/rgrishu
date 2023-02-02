@@ -68,16 +68,11 @@
 
 <p dir="auto">
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/JQuery.svg" alt="jquery"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/React.svg" alt="react" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/REDUX.svg" alt="redux" data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/f52c8745b254c3f96487534f85311a7962971b58/.github/Images/reactrouter.svg" alt="react-router" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/a43733d5a43707400b3a34bbdebc1266a35b52cb/.github/Images/MUI.svg" alt="material-ui" data-canonical-src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&amp;logo=mui&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/PWA.svg" alt="pwa" data-canonical-src="https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/GQL.svg" alt="graphql" data-canonical-src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;"/>
+
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Three.svg" alt="three.js" data-canonical-src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/HTML.svg" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/css.svg" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/rgrishu/rgrishu/445c009e09f434659b9aeee5fb4a6d4ac1cdbb5f/.github/Images/Sass.svg" alt="sass" data-canonical-src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;"/>
+
 <img src="https://raw.githubusercontent.com/rgrishu/rgrishu/c6ce28589c35b3abdf73a93bf308564a92dc68fd/.github/Images/Bootstrap.svg" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
 </p>
 
